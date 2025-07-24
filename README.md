@@ -41,7 +41,7 @@ The analysis includes:
 
 ## 🖼️ Dashboard Screenshot
 
-![User Behavior Power BI Screenshot](изображение_2025-07-22_195958238.png)
+![User Behavior Power BI Screenshot](User Behaviour Analysis.png)
 
 ---
 
