@@ -55,9 +55,3 @@ The analysis includes:
 └── 📁 sql/
     └── query.sql
 ```
-
----
-
-## 📬 Contact
-
-For questions or collaboration, feel free to reach out: **[your name and contact info]**
