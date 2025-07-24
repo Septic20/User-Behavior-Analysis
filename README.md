@@ -49,7 +49,7 @@ The analysis includes:
 
 ```
 📂 user-behavior-analysis/
-├── 📊 PowerBI_Report.pbix
+├── 📊 User Behaviour Analysis.pbix
 ├── 📸 Screenshots
 ├── 📑 README.md
 └── 📁 sql/
